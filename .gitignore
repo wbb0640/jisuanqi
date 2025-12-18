@@ -1,0 +1,18 @@
+# DevEco Studio 缓存/编译文件
+.idea/
+.hvigor/
+build/
+oh_modules/
+node_modules/
+out/
+dist/
+
+# 系统临时文件
+*.log
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 本地配置文件（避免上传敏感信息）
+local.properties

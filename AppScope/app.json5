@@ -1,0 +1,13 @@
+{
+  "app": {
+    "bundleName": "com.example.myapplication", // 保持你的包名，不要改！
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "minAPIVersion": 12,
+    "targetAPIVersion": 12,
+    "apiReleaseType": "Release1",
+    "icon": "$media:layered_image", // 项目默认图标（100%存在）
+    "label": "$string:calculator_label" // 引用字符串资源
+  }
+}

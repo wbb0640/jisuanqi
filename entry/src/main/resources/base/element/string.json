@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "entry module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "EntryAbility description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "EntryAbility"
+    },
+    {
+      "name": "calculator_label",
+      "value": "简易计算器"
+    }
+  ]
+}
